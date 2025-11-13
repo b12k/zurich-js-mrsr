@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 (2025-11-13)
+
+* feat: lib a chage ([1f8dc26](https://github.com/b12k/zurich-js-mrsr/commit/1f8dc26))
+
 ## 0.1.0 (2025-11-13)
 
 * feat(config-release-it): released version v0.0.1 [no ci] ([59ef6f3](https://github.com/b12k/zurich-js-mrsr/commit/59ef6f3))
