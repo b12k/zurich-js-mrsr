@@ -1,0 +1,15 @@
+{
+  "$schema": "https://turborepo.org/schema.json",
+  "ui": "stream",
+  "envMode": "loose",
+  "tasks": {
+    "start": {
+      "cache": true
+    },
+    "release": {
+      "cache": true,
+      "dependsOn": ["^release"],
+      "outputLogs": "new-only"
+    }
+  }
+}
