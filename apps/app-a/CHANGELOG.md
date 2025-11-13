@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.0 (2025-11-13)
+
+* feat: poo feture ([7619f12](https://github.com/b12k/zurich-js-mrsr/commit/7619f12))
+
 ## 0.1.0 (2025-11-13)
 
 * feat(config-release-it): released version v0.0.1 [no ci] ([59ef6f3](https://github.com/b12k/zurich-js-mrsr/commit/59ef6f3))
